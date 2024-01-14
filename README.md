@@ -15,6 +15,6 @@ m - minutes<br>
 h - hours<br>
 
 # Examples 
-01.14(sun) TW --dopamine "youtube shorts" 30m
-01.15(mon) TW --detox "youtube detox" 6h
-01.15(mon) TW --detox "workout in gym" 1h
+01.14(sun) TW --dopamine "youtube shorts" 30m<br>
+01.15(mon) TW --detox "youtube detox" 6h<br>
+01.15(mon) TW --detox "workout in gym" 1h<br>
