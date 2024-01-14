@@ -9,8 +9,6 @@ Add a sentence to dopamine-record.md talking about how you're managing your dopa
 ## Time Durations
 Time durations are specified as a number, followed immediately by one of the following units:<br>
 <br>
-ms - milliseconds<br>
-s - seconds<br>
 m - minutes<br>
 h - hours<br>
 
