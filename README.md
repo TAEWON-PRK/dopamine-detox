@@ -1,4 +1,5 @@
 # dopamin-detox
+### 1/31(수) 까지 각자 나름의 방식대로 각자 브랜치에서 진행 후 도파민 회동 진행. 도파민 회동 때 머지하면서 방식이나 정책을 설정해보기
 
 # Get Started
 Add a sentence to dopamine-record.md talking about how you're managing your dopamine or doing dopamine-detox.
