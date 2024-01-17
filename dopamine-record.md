@@ -5,3 +5,5 @@
 01.14(sun) TW --detox "stretching" 5m<br>
 
 01.15(mon) TW --detox "didn't watch youtube after work at home" 2h<br>
+
+01.16(tue) TW --dopamine "hung out with my friends and drank a glass of beer" 2h<br>
