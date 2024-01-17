@@ -5,6 +5,7 @@
 Add a sentence to dopamine-record.md talking about how you're managing your dopamine or doing dopamine-detox.
 
 # SYNOPSIS
+// TODO : action option 을 좀 더 세분화해야한다.
 \<month\>.\<day\>(\<day_of_the_week\>) \<name_initial\> (--dopamine | --detox) "\<description_about_your_activity\>" \<time_durations\>
 
 ## Time Durations
