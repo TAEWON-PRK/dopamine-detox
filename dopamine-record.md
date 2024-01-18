@@ -7,3 +7,5 @@
 01.15(mon) TW --detox "didn't watch youtube after work at home" 2h<br>
 
 01.16(tue) TW --dopamine "hung out with my friends and drank a glass of beer" 2h<br>
+
+01.17(wed) TW --dopamine "worked hard" 2h<br>
